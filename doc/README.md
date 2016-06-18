@@ -9,4 +9,4 @@
 
 ## [トラブルシューティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/troubleShooting.md)  
 
-
+## [連絡先](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/contact.md)  
