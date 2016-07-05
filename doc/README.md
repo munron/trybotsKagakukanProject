@@ -9,4 +9,6 @@
 
 ## [トラブルシューティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/troubleShooting.md)  
 
+## [ロボットの仕様 ](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/specification.md)  
+
 ## [連絡先](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/contact.md)  
