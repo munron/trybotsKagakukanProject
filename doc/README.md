@@ -1,14 +1,18 @@
 
 # 科学館での運用ドキュメント  
 
-## [梱包物の確認](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/check.md)  
+## [①はじめに](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/jintroduction)
 
-## [セッティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/setting.md)  
+## [②スタッフの当日の仕事の流れ](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/jobflow)
 
-## [メンテナンス方法](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/maintenance.md)  
+## [③ロボットの仕様](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/specification.md)  
 
-## [トラブルシューティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/troubleShooting.md)  
+## [④梱包物リスト](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/check.md)  
 
-## [ロボットの仕様 ](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/specification.md)  
+## [⑤セッティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/setting.md)  
 
-## [連絡先](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/contact.md)  
+## [⑥メンテナンス方法](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/maintenance.md)  
+
+## [⑦トラブルシューティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/troubleShooting.md)  
+
+## [⑧連絡先](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/contact.md)  
