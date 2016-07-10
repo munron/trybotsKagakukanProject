@@ -1,7 +1,7 @@
 
 # 科学館での運用ドキュメント  
 
-## [①はじめに]()
+## [①はじめに]()ttps://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/jintroduction
 
 ## [②スタッフの当日の仕事の流れ](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/jobflow)
 
