@@ -30,7 +30,7 @@
 
 |   |   |   |   |
 |---|---|---|---|  
-| ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225120.jpg)| ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225217.jpg) | ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225143.jpg) | ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225229.jpg) 
+| ![](../picture/P_20160705_225120.jpg)| ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225217.jpg) | ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225143.jpg) | ![](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/picture/P_20160705_225229.jpg) 
 
 モーターには防水加工を施している。  
 アクリルパイプと塩ビキャップでモーターを覆っている。  
