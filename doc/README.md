@@ -15,4 +15,4 @@
 
 ## [⑦トラブルシューティング](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/troubleShooting.md)  
 
-## [⑧連絡先](https://github.com/muro-tani/trybotsKagakukanProject/blob/master/doc/contact.md)  
+## [⑧連絡先](./contact.md)  
